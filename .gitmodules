@@ -5,3 +5,6 @@
 [submodule "lfactors"]
 	path = lfactors
 	url = https://github.com/pdbailey0/lfactors
+[submodule "tidyEdSurvey"]
+	path = tidyEdSurvey
+	url = https://github.com/cran/tidyEdSurvey
